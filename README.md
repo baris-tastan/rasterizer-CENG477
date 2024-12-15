@@ -19,3 +19,7 @@ make rasterizer
 ### Input/Output
 - **Input:** XML-formatted scene files.
 - **Output:** `.ppm` image files.
+
+
+![Alt Text](empty_box_clipped_1.ppm.png)
+![Alt Text](filled_box_6_ce.ppm.png)
