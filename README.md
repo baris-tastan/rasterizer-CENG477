@@ -1,4 +1,5 @@
 # Software Rasterizer: Forward Rendering Pipeline (CENG 477 - Fall 2024-25)
+Developed by: Barış Taştan & Bahar Salman
 
 This C++ project implements a software rasterizer simulating key stages of the forward rendering pipeline.
 
